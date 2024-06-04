@@ -1,7 +1,7 @@
 ![](https://github.com/aziza92/ExpandableNavigation/assets/64699474/c6f1c880-014b-4db2-b318-d3fea06551a2)
 ====================================================================================================================================
 
-Hi, I'm Aziza ! ![](https://s1.ezgif.com/tmp/ezgif-1-fff1a6de5a.gif)
+Hi ! I am Aziza ![](https://s1.ezgif.com/tmp/ezgif-1-fff1a6de5a.gif)
 ===============
 
 📱 💻 &ensp; Mobile & Web Developer
