@@ -1,4 +1,5 @@
-Hi ![](https://s1.ezgif.com/tmp/ezgif-1-fff1a6de5a.gif) <br> I'm Aziza [](https://aaah0mnbncqtinas.public.blob.vercel-storage.com/ehcirCVm9X-no-background-BW5NJYhwfuVrehJWMWY3LwSdjYTdTI.png)
+Hi ![](https://s1.ezgif.com/tmp/ezgif-1-fff1a6de5a.gif) <br> I'm Aziza ![](https://github.com/aziza92/ExpandableNavigation/assets/64699474/21724f34-d8f0-4105-8df0-81ddfb611871.gif)
+
 ==================================================================================================================================== 
 
 📱 💻 &ensp; Mobile & Web Developer
