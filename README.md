@@ -9,7 +9,7 @@ I'm a mobile & web developer with a passion for tech and a love for coding. My j
 
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [aziza.elgoul1@gmail.com](mailto:aziza.elgoul1@gmail.com)
-* 🧠 I'm learning Advanced SwiftUI & flutter at the moment
+* 🧠  I'm learning Advanced SwiftUI & flutter at the moment
 
 ### Skills  
 
