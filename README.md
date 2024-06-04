@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aziza 👩
 ==================================================================================================================================== 
 
-📱 <br> 💻 <br> Mobile & Web Developer
+📱 &ensp; 💻 &ensp; &ensp; &ensp; Mobile & Web Developer
 ----------------------
 Hello! I'm a mobile and web developer with a passion for technology and a love for coding. My journey started 5 years ago when I wrote my first line of code. Since then, it's been a constant journey of growth and evolution. This journey has not only equipped me with technical skills but also taught me how to approach problems practically. Beyond the world of code, I'm a lifelong learner who believes in the power of change and adaptation. I'm always on the lookout for new technologies and trends, ready to take on challenges that push me out of my comfort zone. But I'm not just about codes and algorithms. I'm a team player who values collaboration and communication. I believe that the best solutions come from diverse perspectives coming together. In my free time, you'll find me exploring new places or immersed in a good book. I believe in maintaining a balance between my professional and personal life. I'm excited about the future of development and can't wait to see where this journey takes me next. 
 
