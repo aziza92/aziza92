@@ -1,5 +1,8 @@
-Hi, I'm Aziza ! ![](https://s1.ezgif.com/tmp/ezgif-1-fff1a6de5a.gif) ![](https://github.com/aziza92/ExpandableNavigation/assets/64699474/43bd6786-18e7-458f-b527-3719f7d0f7a0)
+![](https://s1.ezgif.com/tmp/ezgif-1-fff1a6de5a.gif) ![](https://github.com/aziza92/ExpandableNavigation/assets/64699474/43bd6786-18e7-458f-b527-3719f7d0f7a0)
 ====================================================================================================================================
+
+Hi, I'm Aziza ! <br>
+===============
 
 📱 💻 &ensp; Mobile & Web Developer
 ----------------------
