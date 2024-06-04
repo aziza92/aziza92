@@ -1,4 +1,4 @@
-![](https://github.com/aziza92/ExpandableNavigation/assets/64699474/c6f1c880-014b-4db2-b318-d3fea06551a2) <br>
+![](https://github.com/aziza92/ExpandableNavigation/assets/64699474/c6f1c880-014b-4db2-b318-d3fea06551a2)
 Hi there ! ![](https://s1.ezgif.com/tmp/ezgif-1-fff1a6de5a.gif) <br> My name is Aziza but everybody calls me Azza ...
 ====
 
