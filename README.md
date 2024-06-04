@@ -1,4 +1,4 @@
-Hi ![](https://s1.ezgif.com/tmp/ezgif-1-fff1a6de5a.gif) <br> I'm Aziza &ensp; 👩
+Hi ![](https://s1.ezgif.com/tmp/ezgif-1-fff1a6de5a.gif) <br> 👩 I'm Aziza
 ==================================================================================================================================== 
 
 📱 💻 &ensp; Mobile & Web Developer
