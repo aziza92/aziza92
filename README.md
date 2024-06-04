@@ -1,4 +1,4 @@
-Hi ! [] (https://s1.ezgif.com/tmp/ezgif-1-fff1a6de5a.gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Aziza 👩
+Hi ! [](https://s1.ezgif.com/tmp/ezgif-1-fff1a6de5a.gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Aziza 👩
 ==================================================================================================================================== 
 
 📱 💻 &ensp; Mobile & Web Developer
