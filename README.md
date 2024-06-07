@@ -10,7 +10,7 @@
 # Hi there ! ![](https://github.com/aziza92/ExpandableNavigation/assets/64699474/6aee02a3-fcb4-4e20-b623-2b9ed67ec1c0) &ensp; 
 
 
-📱 💻  I'm a mobile & web developer
+📱 💻  I'm a Mobile & Web developer
 ----------------------
 With a passion for tech and a love for coding. My journey started 5 years ago when I wrote my first line of code. Since then, it's been a constant journey of growth and evolution. This journey has not only equipped me with technical skills but also taught me how to approach problems practically. Beyond the world of code, I'm a lifelong learner who believes in the power of change and adaptation. My biggest achievement, of which I'm very proud today, is being independent and completely self-taught. I'm always on the lookout for new tech dev languages and trends, ready to take on challenges that push me out of my comfort zone. Oh one thing ! ... I'm not just about code. I'm a team player who promote collaboration and communication with my clients. I believe the best solutions come from diverse perspectives coming together. In my free time, you'll find me exploring new places or immersed in a good book. I’m working full remote as a freelance. I believe in maintaining a balance between my professional and personal life.
 
