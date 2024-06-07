@@ -1,4 +1,11 @@
-![](https://github.com/aziza92/ExpandableNavigation/assets/64699474/c6f1c880-014b-4db2-b318-d3fea06551a2) <h3> Hi there ! ![](https://github.com/aziza92/ExpandableNavigation/assets/64699474/6aee02a3-fcb4-4e20-b623-2b9ed67ec1c0) &ensp; </h3>
+<!-- Title -->
+
+<p align="center">
+  <a>
+    <img alt="" src="./freelancer.svg">
+  </a>
+</p>
+<h3> Hi there ! ![](https://github.com/aziza92/ExpandableNavigation/assets/64699474/6aee02a3-fcb4-4e20-b623-2b9ed67ec1c0) &ensp; </h3>
 ----------------------
 
 <br>
